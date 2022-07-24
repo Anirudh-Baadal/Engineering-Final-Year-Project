@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/93869586/180639130-3293a260-e168-45f4-b24f-7a781979d368.png)
 
 
-## Confusion Matrix and Accuracy 
+## Confusion Matrix and Testing Accuracy 
 
 ![image](https://user-images.githubusercontent.com/93869586/180639540-bcd12665-2e24-453a-bca9-3531430961ad.png)
 
